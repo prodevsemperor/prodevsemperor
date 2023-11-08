@@ -10,8 +10,6 @@ I'm a passionate Laravel developer with 4 years of experience in crafting web ap
 
 - **Database**: I'm experienced in both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases, and I can design optimized database schemas and queries.
 
-- **Front-End**: I'm familiar with HTML, CSS, JavaScript, and front-end libraries like Bootstrap and Vue.js, allowing me to work on full-stack web development projects.
-
 - **APIs**: I excel at designing and implementing RESTful APIs for various purposes, handling authentication, and versioning.
 
 - **Testing**: I'm a proponent of test-driven development (TDD) and have expertise in Laravel's testing suite, PHPUnit, and Dusk for browser testing.
@@ -22,7 +20,6 @@ I'm a passionate Laravel developer with 4 years of experience in crafting web ap
 ## 🚀 Let's Connect
 
 - **LinkedIn**: (https://www.linkedin.com/in/edima-bassey-thomas-61b376175/)
-- **Twitter**: [@YourTwitterHandle](your-twitter-link)
 - **Email**: edimabassey2@gmail.com, edima@prodevs.io
 
 I'm open to collaborating on interesting projects and always excited to connect with fellow developers and tech enthusiasts.
